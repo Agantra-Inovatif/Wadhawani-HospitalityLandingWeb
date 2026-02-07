@@ -302,7 +302,7 @@ function App() {
                     rel="noopener noreferrer"
                     className="text-blue-600 hover:text-blue-700 font-semibold text-lg flex items-center space-x-2 group"
                   >
-                    <span>+62 817-5151-219</span>
+                    <span>+37253194019</span>
                     <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
                   </a>
                 </div>
@@ -321,7 +321,7 @@ function App() {
                     href="mailto:info@ningenproject.org"
                     className="text-blue-600 hover:text-blue-700 font-semibold text-lg flex items-center space-x-2 group"
                   >
-                    <span>nickotech2000@gmail.com</span>
+                    <span>info@ningenproject.org</span>
                     <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
                   </a>
                 </div>
