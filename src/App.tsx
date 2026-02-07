@@ -297,7 +297,7 @@ function App() {
                     </div>
                   </div>
                   <a
-                    href="https://wa.me/628175151219"
+                    href="https://wa.me/37253194019"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-blue-600 hover:text-blue-700 font-semibold text-lg flex items-center space-x-2 group"
@@ -318,7 +318,7 @@ function App() {
                     </div>
                   </div>
                   <a
-                    href="mailto:nickotech2000@gmail.com"
+                    href="mailto:info@ningenproject.org"
                     className="text-blue-600 hover:text-blue-700 font-semibold text-lg flex items-center space-x-2 group"
                   >
                     <span>nickotech2000@gmail.com</span>
